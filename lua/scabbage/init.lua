@@ -4,4 +4,3 @@ require("scabbage.set")
 
 require('vscode').load('dark')
 
-print("yeet")
