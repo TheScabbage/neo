@@ -10,5 +10,3 @@ vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
 vim.keymap.set("v", "<Up>", ":m '<-2<CR>gv=gv")
 vim.keymap.set("v", "<Down>", ":m '>+1<CR>gv=gv")
 vim.keymap.set("n", "J", "mzJ`z")
-
-print("Remaps set.")

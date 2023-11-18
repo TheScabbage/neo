@@ -119,6 +119,11 @@ _G.packer_plugins = {
     path = "/home/scabbage/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
     url = "https://github.com/nvim-treesitter/nvim-treesitter"
   },
+  ["omnisharp-extended-lsp.nvim"] = {
+    loaded = true,
+    path = "/home/scabbage/.local/share/nvim/site/pack/packer/start/omnisharp-extended-lsp.nvim",
+    url = "https://github.com/Hoffs/omnisharp-extended-lsp.nvim"
+  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/home/scabbage/.local/share/nvim/site/pack/packer/start/packer.nvim",
