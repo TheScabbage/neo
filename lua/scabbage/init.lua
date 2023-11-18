@@ -1,6 +1,3 @@
-require("scabbage.packer")
-require("scabbage.remap")
-require("scabbage.set")
-
-require('vscode').load('dark')
-
+require("remap.lua")
+require("packer.lua")
+require("fugitive.lua")
